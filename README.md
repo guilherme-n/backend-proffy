@@ -1,12 +1,19 @@
-# Funcionalidades
+# Proffy server
 
-## Conexões
+## This is the server version of Proffy
 
-- Rota para listar o total de conexoes realizadas;
-- Rota para criar uma nova conexao;
+<p align="center">🚀 Server for students to look for teachers available to give classes</p
 
-## Aulas
+### Installation required
 
-- Rota para criar uma aula;
-- Rota para listar aulas;
-  - Filtrar por materia, dia da semana e horario;
+Before running, you need to install
+[Node.js](https://nodejs.org/en/)
+
+### 🛠 Tech Stack
+
+This project was developed at the RocketSeat NLW 2.0 with the following technologies:
+
+- [Knex](http://knexjs.org)
+- [Node.js](https://nodejs.org/en/)
+- [SQLite](https://www.sqlite.org)
+- [TypeScript](https://www.typescriptlang.org/)
