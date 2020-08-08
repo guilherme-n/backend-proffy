@@ -2,7 +2,7 @@
 
 ## This is the server version of Proffy
 
-<p align="center">🚀 Server for students to look for teachers available to give classes</p
+🚀 Server for students to look for teachers available to give classes
 
 ### Installation required
 
